@@ -142,7 +142,7 @@ h4 {
 }
 /* media query for menu */
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 300px) {
   nav ul {
     position: absolute;
     top: 70px;
@@ -154,7 +154,7 @@ h4 {
   }
   }
   nav ul li {
-    display: block;
+    display: display-block;
     margin-right: 50px;
     margin-top: 10px;
     margin-bottom: 10px;
